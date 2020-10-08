@@ -29,5 +29,6 @@ int main()
 		}
 	}while(n[i-1]==1||n[i-1]==0);
 	printf("\n%d\n%d\n%d\n%d",xx,xy,yx,yy);
+	
 	return 0;
 }
